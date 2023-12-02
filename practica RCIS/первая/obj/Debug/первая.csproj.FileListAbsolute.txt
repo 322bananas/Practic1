@@ -1,0 +1,6 @@
+C:\Users\volos\RiderProjects\practica RCIS\первая\obj\Debug\первая.csproj.AssemblyReference.cache
+C:\Users\volos\RiderProjects\practica RCIS\первая\obj\Debug\первая.csproj.CoreCompileInputs.cache
+C:\Users\volos\RiderProjects\practica RCIS\первая\bin\Debug\первая.exe
+C:\Users\volos\RiderProjects\practica RCIS\первая\bin\Debug\первая.pdb
+C:\Users\volos\RiderProjects\practica RCIS\первая\obj\Debug\первая.exe
+C:\Users\volos\RiderProjects\practica RCIS\первая\obj\Debug\первая.pdb

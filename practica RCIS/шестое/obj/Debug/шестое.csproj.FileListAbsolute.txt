@@ -1,0 +1,6 @@
+C:\Users\volos\RiderProjects\practica RCIS\шестое\bin\Debug\шестое.exe
+C:\Users\volos\RiderProjects\practica RCIS\шестое\bin\Debug\шестое.pdb
+C:\Users\volos\RiderProjects\practica RCIS\шестое\obj\Debug\шестое.csproj.AssemblyReference.cache
+C:\Users\volos\RiderProjects\practica RCIS\шестое\obj\Debug\шестое.csproj.CoreCompileInputs.cache
+C:\Users\volos\RiderProjects\practica RCIS\шестое\obj\Debug\шестое.exe
+C:\Users\volos\RiderProjects\practica RCIS\шестое\obj\Debug\шестое.pdb
